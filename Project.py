@@ -63,7 +63,7 @@ CREATE TABLE {0}.{1} (
     bmi                          NUMERIC,
     diabetespedigreefunction     NUMERIC,
     age                          INTEGER ,
-    outcome                      TEXT
+    outcome                      INTEGER
 
 );
 """.format(schema, table), connDetails) 
