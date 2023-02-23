@@ -13,12 +13,19 @@ What data sets have you identified that may assist in addressing your questions?
 
 *Data sets:*
 https://www.kaggle.com/datasets/pushprajnamdev/diabetes-dataset
+
 https://www.kaggle.com/datasets/dslearner0406/diabetes-dataset
+
 https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset 
+
 https://www.kaggle.com/datasets/andrewmvd/early-diabetes-classification
+
 https://www.kaggle.com/datasets/saurabhtayal/diabetic-patients-readmission-prediction  
+
 
 *Sources:*
 https://www.americashealthrankings.org/explore/annual/measure/Diabetes/state/NC
+
 https://diabetes.org/sites/default/files/2021-11/ADV_2021_State_Fact_sheets_North%20Carolina_rev.pdf
+
 Impact of diabetes on hospital admission and length of stay among a general population aged 45 year or more: a record linkage study | BMC Health Services Research | Full Text (biomedcentral.com)
